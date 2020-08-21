@@ -5,10 +5,15 @@
 
 > 前端工程师手册，最近更新 5 年前。虽说很久不更新了，新技术没有收录，但是，内容体系还是比较全面的，可以作为索引使用。
 
-## 算法信息
+## 职场面试
 + [LeetCode](https://leetcode-cn.com/problemset/algorithms/)
 
-> 开发必备，面试常用。
+> 开发必备，算法面试常用。
+
++ [牛客网](http://nowcoder.com/)
+
+> 从职场交流，到 IT 面试的较全面的面试信息工具。
+
 
 ## 职场信息
 + [看准网](https://www.kanzhun.com/)
