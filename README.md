@@ -19,3 +19,9 @@
 + [看准网](https://www.kanzhun.com/)
 
 > 公司咋样，看看看准的匿名评价。
+
+## 职场软技能
+
++ [提问的智慧](https://github.com/ruby-china/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
+
+> 沟通是工作中必不可少的一环，优质提问有利于高效沟通，有利于推进工作。
