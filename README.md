@@ -1,15 +1,24 @@
 # EasyStudy
 
 ## 综合性信息
++ [W3school](https://www.w3school.com.cn/index.html)
+
+> W3school 是 Web 技术教程，可以找到你所需要的全面网站建设教程，讲解方式简单易懂，适合入门。
+
 + [前端工程师手册](https://leohxj.gitbooks.io/front-end-database/content/index.html)
 
 > 前端工程师手册，最近更新 5 年前。虽说很久不更新了，新技术没有收录，但是，内容体系还是比较全面的，可以作为索引使用。
+
+## JavaScript
++ [现代 JavaScript 教程](https://zh.javascript.info/)
+
+> 以最新的 JavaScript 标准为基准。通过简单但足够详细的内容，讲解从基础到高阶的 JavaScript 相关知识。
 
 
 ## 代码管理
 + [GitHub](https://github.com/)
 
-> 面向开源及私有软件项目的托管平台，资源十分丰富。从操作系统，到编程语言、数据库，再到应用框架，都有涉及，
+> 面向开源及私有软件项目的托管平台，资源十分丰富。从操作系统，到编程语言、数据库，再到应用框架，都有涉及。
 
 + [npm](https://www.npmjs.com/)
 
