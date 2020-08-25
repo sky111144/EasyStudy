@@ -9,6 +9,10 @@
 
 > 前端工程师手册，最近更新 5 年前。虽说很久不更新了，新技术没有收录，但是，内容体系还是比较全面的，可以作为索引使用。
 
++ [caniuse](https://caniuse.com/#home)
+
+> caniuse 提供兼容性查询，并且包含覆盖率数据，让项目更加稳定运行。
+
 ## JavaScript
 + [现代 JavaScript 教程](https://zh.javascript.info/)
 
