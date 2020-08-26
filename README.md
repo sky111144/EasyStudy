@@ -18,6 +18,10 @@
 
 > 以最新的 JavaScript 标准为基准。通过简单但足够详细的内容，讲解从基础到高阶的 JavaScript 相关知识。
 
+## UI 资源
++ [iconfont](https://www.iconfont.cn/)
+
+> 图标设计资源，需要的小图片基本上都能搜索出来，目前没有收费。
 
 ## 代码管理
 + [GitHub](https://github.com/)
