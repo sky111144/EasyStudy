@@ -18,6 +18,10 @@
 
 > 以最新的 JavaScript 标准为基准。通过简单但足够详细的内容，讲解从基础到高阶的 JavaScript 相关知识。
 
++ [Vue 技术内幕](http://hcysun.me/vue-design/zh/)
+
+> 通过详细的流程描述剖析 Vue 技术原理，是了解 Vue 技术原理的不错技术文章集。
+
 ## UI 资源
 + [iconfont](https://www.iconfont.cn/)
 
