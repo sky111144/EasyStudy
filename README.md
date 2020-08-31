@@ -36,6 +36,11 @@
 
 > JavaScript 的包管理工具，安装、共享、分发代码、管理项目依赖关系，实际开发必备工具。
 
+## 著名开源项目
++ [Hexo](https://hexo.io/)
+
+> 开源的静态博客生成器，主题众多。
+
 ## 职场面试
 + [LeetCode](https://leetcode-cn.com/problemset/algorithms/)
 
