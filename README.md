@@ -55,7 +55,7 @@
 
 > 公司咋样，看看看准的匿名评价。
 
-## 职场技能
+## 职场杂谈
 
 + [提问的智慧](https://github.com/ruby-china/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
 
@@ -64,6 +64,10 @@
 + [怎样写好业务代码](https://segmentfault.com/a/1190000010220247)
 
 > 如何编写复杂业务代码的理解和思考，不一定适合所有人、所有技术岗位，但是可以作为参考材料，看看他人是如何思考的。
+
++ [我眼中的工程师文化](https://kb.cnblogs.com/page/166461/)
+
+> 关于工程师文化的漫谈感悟，有几分意思。
 
 + [科学上网](https://crifan.github.io/scientific_network_summary/website/)
 
