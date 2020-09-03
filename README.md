@@ -76,3 +76,9 @@
 + [科学上网](https://crifan.github.io/scientific_network_summary/website/)
 
 > 这个就不多说了，嘘！
+
+## 个人博客
+
++ [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
+
+> 阮一峰，上海财经大学世界经济博士研究生，从 2003 年开始在网络上写日志，内容广博（经济学、英语、历史、IT技术、医学、电影、音乐和美术、政治学、科学、创业、互联网等）。
