@@ -86,3 +86,7 @@
 + [张鑫旭的个人主页](https://www.zhangxinxu.com/)
 
 > 华中科技大学毕业，现上海就职于阅文集团，专注 web前端偏前领域，CSS 专家。
+
++ [司徒正美](https://www.cnblogs.com/rubylouvre/)
+
+> 曾任去哪儿网前端架构师，avalon.js 作者，《JavaScript框架设计》作者
