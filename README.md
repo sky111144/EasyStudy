@@ -41,6 +41,10 @@
 
 > 开源的静态博客生成器，主题众多。
 
++ [MOCHA](https://mochajs.cn/)
+
+> 前端自动化测试框架，支持同步、异步测试，简便快捷好用。
+
 ## 职场面试
 + [LeetCode](https://leetcode-cn.com/problemset/algorithms/)
 
