@@ -42,6 +42,9 @@
 
 > 短链接工具
 
++ [聚合图床](https://www.superbed.cn/)
+
+> 图床
 
 ## 著名开源项目
 + [Hexo](https://hexo.io/)
