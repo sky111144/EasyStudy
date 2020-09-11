@@ -22,11 +22,6 @@
 
 > 通过详细的流程描述剖析 Vue 技术原理，是了解 Vue 技术原理的不错技术文章集。
 
-## UI 资源
-+ [iconfont](https://www.iconfont.cn/)
-
-> 图标设计资源，需要的小图片基本上都能搜索出来，目前没有收费。
-
 ## 代码管理
 + [GitHub](https://github.com/)
 
@@ -37,6 +32,14 @@
 > JavaScript 的包管理工具，安装、共享、分发代码、管理项目依赖关系，实际开发必备工具。
 
 ## 便捷工具
+
++ [fontawesome](http://www.fontawesome.com.cn/)
+
+> 字体图标
+
++ [iconfont](https://www.iconfont.cn/)
+
+> 图标设计资源，需要的小图片基本上都能搜索出来，目前没有收费。
 
 + [69RUN](https://69.run/)
 
