@@ -66,6 +66,13 @@
 
 > 前端自动化测试框架，支持同步、异步测试，简便快捷好用。
 
+## 技术发展
+
++ [跨平台技术演进](https://segmentfault.com/a/1190000018723460)
+
+> 跨平台技术百花齐放，值得深入了解。
+
+
 ## 职场面试
 + [LeetCode](https://leetcode-cn.com/problemset/algorithms/)
 
