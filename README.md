@@ -126,3 +126,7 @@
 + [司徒正美](https://www.cnblogs.com/rubylouvre/)
 
 > 曾任去哪儿网前端架构师，avalon.js 作者，《JavaScript框架设计》作者
+
++ [余果](http://yuguo.github.io/)
+
+> 腾讯微云的用户体验设计负责人，《web全栈工程师的自我修养》作者
