@@ -33,6 +33,10 @@
 
 ## 便捷工具
 
++ [fir.im](https://www.jappstore.com/)
+
+> 免费应用内测托管平台。
+
 + [codewars](https://www.codewars.com/kata/latest)
 
 > 寓教于乐的学习网站，爱了，爱了！
