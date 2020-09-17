@@ -33,6 +33,10 @@
 
 ## 便捷工具
 
++ [vdabao](https://www.vdabao.cn/)
+
+> 免费应用内测托管平台。
+
 + [fir.im](https://www.jappstore.com/)
 
 > 免费应用内测托管平台。
