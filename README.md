@@ -65,6 +65,11 @@
 
 > CDN
 
++ [图灵社区](https://www.ituring.com.cn/)
+
+> IT 阅读社区
+
+
 ## 著名开源项目
 + [Hexo](https://hexo.io/)
 
