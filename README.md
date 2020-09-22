@@ -90,6 +90,10 @@
 
 > 前端自动化测试框架，支持同步、异步测试，简便快捷好用。
 
++ [DPlayer](http://dplayer.js.org/)
+
+> DPlayer，支持多种格式的开源播放器
+
 ## 技术发展
 
 + [跨平台技术演进](https://segmentfault.com/a/1190000018723460)
