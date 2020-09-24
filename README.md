@@ -41,6 +41,10 @@
 
 > 短信代收平台
 
++ [testin](https://www.testin.cn/index.htm)
+
+> 在线测试平台。花钱，摆平各种机型兼容问题，太现实了。
+
 + [vdabao](https://www.vdabao.cn/)
 
 > 免费应用内测托管平台。
