@@ -98,14 +98,12 @@
 
 > DPlayer，支持多种格式的开源播放器
 
-## 技术发展
+## 技术社区
 
-+ [跨平台技术演进](https://segmentfault.com/a/1190000018723460)
++ [segmentfault](https://segmentfault.com/)
 
-> 跨平台技术百花齐放，值得深入了解。
+> 技术问答社区
 
-
-## 职场面试
 + [LeetCode](https://leetcode-cn.com/problemset/algorithms/)
 
 > 开发必备，算法面试常用。
@@ -114,12 +112,15 @@
 
 > 从职场交流，到 IT 面试的较全面的面试信息工具。
 
-## 职场信息
 + [看准网](https://www.kanzhun.com/)
 
 > 公司咋样，看看看准的匿名评价。
 
-## 职场杂谈
+## 技术杂谈
+
++ [跨平台技术演进](https://segmentfault.com/a/1190000018723460)
+
+> 跨平台技术百花齐放，值得深入了解。
 
 + [提问的智慧](https://github.com/ruby-china/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
 
