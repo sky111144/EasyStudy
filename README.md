@@ -13,6 +13,11 @@
 
 > caniuse 提供兼容性查询，并且包含覆盖率数据，让项目更加稳定运行。
 
++ [应急响应实战笔记](https://bypass007.github.io/Emergency-Response-Notes/)
+
+> 这是一个关于安全事件应急响应的项目，从系统入侵到事件处理，收集和整理了一些案例进行分析。
+
+
 ## JavaScript
 + [现代 JavaScript 教程](https://zh.javascript.info/)
 
